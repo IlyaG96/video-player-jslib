@@ -5,9 +5,9 @@
 
 Учебный проект для курсов web-разработчиков [dvmn](https://dvmn.org).
 Построен на базе библиотеки [Playable](https://wix.github.io/playable/).
+Сайт с видеоплеером доступен [по этому адресу](https://ilyag96.github.io/video-player-jslib/player/index.html).
 
-![max example](screenshots/max.gif)
-
+![](screenshots/player.png|width=600px)
 
 ## Установка
 
@@ -45,7 +45,7 @@ livereload player
 <details>
 <summary>Запуск без использования python3</summary>
 
-Откройте index.html в папке player и подождите, пока плеер загрузится
+Откройте index.html в папке player и подождите, пока плеер загрузится.
 </details>
 
 
