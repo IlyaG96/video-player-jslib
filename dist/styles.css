@@ -13,3 +13,15 @@ i {
 .video-container {
   width: 100%; height: 100%;
 }
+.black-background {
+  background-color: black;
+}
+.progress-slider {
+  background-color: gray;
+}
+.shadow {
+  box-shadow: 10px 5px 5px gray;
+}
+.progress-bar {
+  background-color: black;
+}
