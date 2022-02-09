@@ -11,7 +11,7 @@
   font-size: medium;
   color: white;
 }
-.styled-player {
+.flex-player {
   flex-direction: column;
   display: flex;
 }
