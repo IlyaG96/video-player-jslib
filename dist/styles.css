@@ -1,9 +1,14 @@
-.player-button {
+.button-container {
   border-style: none;
   cursor: pointer;
   background-color: transparent;
+  margin: 5px;
+  padding: 5px;
 }
-.white_text {
+.player-button {
+  width: 15px;
+  height: 15px;
+  font-size: medium;
   color: white;
 }
 .styled-player {
@@ -14,12 +19,12 @@
   width: 100%;
   height: 100%;
 }
-.black-background {
+.buttons-block {
+  position: relative;
   background-color: black;
 }
 .progress-slider {
   cursor: pointer;
-  background-color: gray;
 }
 .shadow {
   box-shadow: 5px 5px 5px 5px gray;
@@ -27,4 +32,12 @@
 .progress-bar {
   cursor: pointer;
   background-color: black;
+}
+.right {
+  position: absolute;
+  right: 0;
+}
+.progress-timer {
+  color: white;
+  margin-left: 10px;
 }
