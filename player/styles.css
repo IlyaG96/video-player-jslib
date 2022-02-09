@@ -33,7 +33,7 @@
   cursor: pointer;
   background-color: black;
 }
-.right {
+.align-right {
   position: absolute;
   right: 0;
 }

@@ -2,3 +2,5 @@ env
 .idea
 __pycache__
 dist/fonts
+example_max.html
+example_min.html
