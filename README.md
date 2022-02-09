@@ -3,8 +3,10 @@
 
 # Видеоплеер
 
-Учебный проект для курсов web-разработчиков [dvmn](https://dvmn.org).
-Построен на базе библиотеки [Playable](https://wix.github.io/playable/).
+Учебный проект для курсов web-разработчиков [dvmn](https://dvmn.org).  
+
+Построен на базе библиотеки [Playable](https://wix.github.io/playable/).  
+
 Сайт с видеоплеером доступен [по этому адресу](https://ilyag96.github.io/video-player-jslib/player/index.html).
 
 <img src="https://github.com/IlyaG96/video-player-jslib/blob/master/screenshots/player.png?raw=true" width="50%" height="50%">
