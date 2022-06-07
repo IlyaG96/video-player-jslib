@@ -1,4 +1,4 @@
-.button-container {
+.player-button-container {
   border-style: none;
   cursor: pointer;
   background-color: transparent;
@@ -11,7 +11,7 @@
   font-size: medium;
   color: white;
 }
-.flex-player {
+.player-flex {
   flex-direction: column;
   display: flex;
 }
@@ -19,25 +19,14 @@
   width: 100%;
   height: 100%;
 }
-.buttons-block {
+.player-buttons-block {
   position: relative;
   background-color: black;
 }
-.progress-slider {
-  cursor: pointer;
-}
-.shadow {
+.player-shadow {
   box-shadow: 5px 5px 5px 5px gray;
 }
-.progress-bar {
-  cursor: pointer;
-  background-color: black;
-}
-.align-right {
+.player-align-right {
   position: absolute;
   right: 0;
-}
-.progress-timer {
-  color: white;
-  margin-left: 10px;
 }
